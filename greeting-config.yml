@@ -12,4 +12,6 @@ management:
       pivotal: DEBUG
 
 greeting:
-  displayFortune: true
+  displayFortune: false
+
+quoteServiceURL: http://quote-service-dev.cfapps.io/quote
